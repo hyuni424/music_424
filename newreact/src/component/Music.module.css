@@ -1,0 +1,26 @@
+*{margin:0; padding:0;}
+
+/* 앨범 명 */
+h2{padding:30px;}
+
+/* 앨범 상세 */
+.MusicArea{width:800px; padding:20px 30px;}
+
+/* img */
+.imgs{width:170px; float:left;}
+.imgs img{width:100%;}
+
+.AlbumDesc{width:250px; float:left;}
+.AlbumDesc dt{width:100px; padding-left:50px; padding-bottom:15px; float:left;}
+.AlbumDesc dd{float:left;}
+
+/* 노래 목록 */
+h3{padding:30px 0 20px 20px;}
+.MusicDesc{width:800px; margin:0 20px; border-top:2px solid #333;}
+.MusicDesc caption{display:none;}
+.MusicDesc th, td{padding:10px 0; border-bottom:1px solid #ddd;}
+.MusicDesc td:first-child{text-align:center;}
+button{cursor:pointer;}
+
+.AlbumDesc::after,.MusicArea::after{content:""; display:block; clear:both;}
+

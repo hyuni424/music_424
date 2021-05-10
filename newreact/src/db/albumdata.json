@@ -1,0 +1,12 @@
+{
+    "album":[
+        {"num":1, "title":"IU 5th Album 'LILAC", "name":"아이유(IU)", "al_date":"2021.03.25", "al":"정규","poster":"https://image.bugsm.co.kr/album/images/170/40271/4027185.jpg"},
+        {"num":2, "title":"에잇", "name":"아이유(IU)", "al_date":"2020.05.06", "al":"싱글","poster":"https://image.bugsm.co.kr/album/images/170/203228/20322838.jpg"},
+        {"num":3, "title":"Love poem", "name":"아이유(IU)", "al_date":"2019.11.18 ", "al":"EP(미니)","poster":"https://image.bugsm.co.kr/album/images/170/202860/20286013.jpg"},
+        {"num":4, "title":"Palette", "name":"아이유(IU)", "al_date":"2017.04.21", "al":"정규","poster":"https://image.bugsm.co.kr/album/images/170/200941/20094140.jpg"}
+    ],
+    "music":[
+        {"num":1, "title":"라일락", "name":"아이유(IU)"},
+        {"num":2, "title":"coin", "name":"아이유(IU)"}   
+    ]
+}
